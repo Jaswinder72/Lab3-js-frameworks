@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "brand": "Dell",
+    "price": 1200,
+    "description": "A high-performance laptop with Intel Core i7 processor."
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "brand": "Samsung",
+    "price": 800,
+    "description": "A powerful smartphone with a large AMOLED display."
+  },
+  {
+    "id": 3,
+    "name": "Book",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "description": "A bestselling fantasy novel about a young wizard."
+  },
+  {
+    "id": 4,
+    "name": "Camera",
+    "brand": "Canon",
+    "price": 1000,
+    "description": "A professional DSLR camera with 24-megapixel sensor."
+  },
+  {
+    "id": 5,
+    "name": "Shoes",
+    "brand": "Nike",
+    "price": 120,
+    "description": "Sporty shoes with breathable mesh upper and cushioned sole."
+  },
+  {
+    "id": 6,
+    "name": "Watch",
+    "brand": "Apple",
+    "price": 400,
+    "description": "A stylish smartwatch with fitness tracking and heart rate monitoring."
+  }
+]
